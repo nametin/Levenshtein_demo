@@ -1,0 +1,14 @@
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\bin\Debug\net8.0\levenshtein_distance.exe
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\bin\Debug\net8.0\levenshtein_distance.deps.json
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\bin\Debug\net8.0\levenshtein_distance.runtimeconfig.json
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\bin\Debug\net8.0\levenshtein_distance.dll
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\bin\Debug\net8.0\levenshtein_distance.pdb
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\obj\Debug\net8.0\levenshtein_distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\obj\Debug\net8.0\levenshtein_distance.AssemblyInfoInputs.cache
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\obj\Debug\net8.0\levenshtein_distance.AssemblyInfo.cs
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\obj\Debug\net8.0\levenshtein_distance.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\obj\Debug\net8.0\levenshtein_distance.dll
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\obj\Debug\net8.0\refint\levenshtein_distance.dll
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\obj\Debug\net8.0\levenshtein_distance.pdb
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\obj\Debug\net8.0\levenshtein_distance.genruntimeconfig.cache
+C:\Users\AHMET\source\repos\levenshtein_distance\levenshtein_distance\obj\Debug\net8.0\ref\levenshtein_distance.dll

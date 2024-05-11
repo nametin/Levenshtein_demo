@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "levenshtein_distance/1.0.0": {
+        "runtime": {
+          "levenshtein_distance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "levenshtein_distance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
